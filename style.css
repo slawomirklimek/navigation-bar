@@ -5,3 +5,17 @@
     list-style: none;
     box-sizing: border-box;
 }
+body{
+    font-family: montserrant;
+
+}
+nav{
+    background-color: burlywood;
+    height: 80px;
+    width: 100%;
+}
+label.logo{
+    color:white;
+    font-size:  35px;
+    line-height: 80px;
+}
